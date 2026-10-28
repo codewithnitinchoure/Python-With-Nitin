@@ -1,6 +1,6 @@
 pin = int(input("enter your pin :"))
 
-if pin == 5445:
+if pin == 5445: # frist condition
     print("login Successful....")
 
     balance = 5000
